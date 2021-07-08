@@ -1,0 +1,16 @@
+tab:unnamed-chunk-13
+tab:unnamed-chunk-14
+introduction
+data-monitoring
+carte-de-lenquete
+analyse-des-donnes
+résumé-des-données-récoltées-désagrégées-selon-le-sexe-des-enquetés
+temps-denquête-selon-les-enqueteurs
+methodologie
+méthodologie-de-collecte-des-données
+méthodologie-danalyse
+analyse-des-données
+description-des-données
+construction-des-indicateurs-du-projet
+construction-des-indicateurs-de-cohésion-sociale
+conclusion

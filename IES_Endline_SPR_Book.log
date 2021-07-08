@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (MiKTeX 21.6) (preloaded format=xelatex 2021.6.16)  8 JUL 2021 07:40
+This is XeTeX, Version 3.141592653-2.6-0.999993 (MiKTeX 21.6) (preloaded format=xelatex 2021.6.16)  8 JUL 2021 19:56
 entering extended mode
 **./IES_Endline_SPR_Book.tex
 (IES_Endline_SPR_Book.tex
@@ -904,7 +904,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 156--158
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.172 ...ite)Réalisations Par Groupement/commune }
+l.172 ...alisations Par Groupement et ou commune }
                                                    
 Here is how much of TeX's memory you used:
  19675 strings out of 411239

@@ -124,7 +124,7 @@ SPR_data$nom_enqueteur <- SPR_data$nom_enqueteur %>% str_replace_all("ohirwe olu
 ```{r realisation_site,echo=FALSE}
 SPR_data %>% group_by(Province,Territoire) %>% count(Province,Territoire) %>% 
   mutate(Territoire_Commune=case_when(Territoire=="n/a" & Province=="Nord-Kivu"~"Goma",Territoire=="n/a" & Province=="Sud-Kivu"~"Bukavu",TRUE~Territoire)) %>% relocate(Territoire_Commune,.before = n) %>% select(Province,Territoire_Commune,n) %>% relocate(Territoire,.after = Province) %>% mutate(assignation=101) %>% mutate(Pourcentage=n*100/assignation) %>% 
-  kable(caption = "Réalisations Par Groupement/commune ",digits = 0,align = "c") %>% 
+  kable(caption = "Réalisations Par Groupement et ou commune ",digits = 0,align = "c") %>% 
   row_spec(0,background = "blue")
 ```
 
