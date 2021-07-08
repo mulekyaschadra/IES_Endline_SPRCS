@@ -1,0 +1,13 @@
+--- 
+title: "Etude Finale SPR"
+author: "Innovations & Entreprenariat Social"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+description: "Rapport d'Etat de Collect et d'analyse des données sur le Cohésion Sociale"
+---
+
+

@@ -1,0 +1,10 @@
+# Introduction
+
+Ce site nous permettra de suivre en temps réel la situation de récolte et d'analyse des données en cours de reolcte
+
+Il constitue un moyen de vérification à temps réel de l'évalution de collecte, de l'assurance qualité des donnnes et de la performance des activités sur terrain.
+
+```{r echo=FALSE,include=FALSE,message=FALSE}
+#file.create('.nojekyll')
+```
+
